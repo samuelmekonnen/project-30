@@ -1,9 +1,8 @@
 
-<<<<<<< HEAD
+
 Hello world
 Hello World !
-=======
 Hello World !
 Hello world
->>>>>>> 1743ed0 (some commit)
+
 
